@@ -1,0 +1,14 @@
+FallenPalmTree,3032,3042,-3945,-3941
+DinosaurSkeleton,3064,3073,-4038,-3992
+StatueTemple,3030,3101,-4014,-3912
+StonePlantMound2,2984,2996,-4090,-4077
+StonePlantMound3,2960,2971,-4036,-4027
+P_MayanTemple1,2947,2977,-3934,-3888
+BlazeSpawnerCrystal,2897,2903,-4044,-4038
+StonePlantBoulder,2879,2889,-4093,-4083
+Tree_Oak_TheMushroomOak_v3,2877,2936,-4089,-4039
+DinosaurSkeleton,2852,2898,-3907,-3898
+RLCraft_DecentCaveSpider,2857,2857,-3878,-3878
+RLCraft_UndergroundRuin2,2855,2862,-3883,-3873
+RLCraft_SmallUndergroundSkeleton,2930,2938,-3770,-3762
+DinosaurSkeleton,2859,2905,-3722,-3713

@@ -1,0 +1,4 @@
+RLCraft_DecentSkeleton,5009,5009,-4068,-4068
+RLCraft_UndergroundRuin2,5004,5014,-4073,-4066
+StoneIceBoulder1,4630,4640,-4074,-4064
+ShrineSmallAir,4618,4626,-4083,-4075

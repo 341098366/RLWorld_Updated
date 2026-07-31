@@ -1,0 +1,16 @@
+StonePlantMound4,2828,2835,-5142,-5135
+StoneBoulder,2800,2809,-5154,-5145
+StoneMazePath,2782,2784,-5123,-5121
+StoneMazeStudy,2788,2796,-5129,-5115
+StoneMazePath,2782,2784,-5126,-5124
+StoneMazePath,2794,2796,-5123,-5121
+StoneMazeSpiderRoom,2779,2784,-5132,-5127
+StoneMazePathBig,2770,2778,-5129,-5121
+StoneMazeEndChest,2779,2781,-5126,-5124
+StoneMazePath,2767,2769,-5126,-5124
+StoneMazeSpiderRoom,2764,2769,-5132,-5127
+StoneMazePath,2773,2775,-5132,-5130
+StoneMazeEndChest,2770,2772,-5132,-5130
+RLCraft_SmallUndergroundSkeleton,2864,2872,-5170,-5162
+StoneBoulder,2882,2891,-5200,-5191
+StonePlantMound1,2737,2743,-5188,-5182

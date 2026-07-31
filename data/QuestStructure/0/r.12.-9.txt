@@ -1,0 +1,10 @@
+RLCraft_4Towers,6411,6463,-5125,-5065
+StoneLeafMound,6506,6515,-4977,-4970
+StonePlantMound1,6363,6369,-4945,-4939
+P_VillageLibrary,6270,6286,-4926,-4907
+SmallWoodenCottage2,6578,6586,-5120,-5112
+StoneLeafMound,6416,6425,-4921,-4914
+VillageWoodMill,6159,6172,-4890,-4874
+VillageMarketplace,6198,6212,-4913,-4899
+RLCraft_SmallUndergroundSkeleton,6180,6188,-4825,-4817
+P_VillageInn,6249,6258,-4915,-4904

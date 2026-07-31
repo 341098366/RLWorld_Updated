@@ -1,0 +1,2 @@
+NetherThorn,488,506,-664,-638
+NetherThorn,337,355,-762,-736

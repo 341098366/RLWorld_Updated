@@ -1,0 +1,4 @@
+DinosaurSkeleton,-2,44,-326,-317
+P_SmallShip,87,107,-22,-16
+RLCraft_UndergroundFarm,221,264,-164,-122
+ShrineSmallAir,345,353,-315,-307

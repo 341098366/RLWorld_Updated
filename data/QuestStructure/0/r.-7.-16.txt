@@ -1,0 +1,9 @@
+StoneBoulder,-3807,-3798,-8396,-8387
+StonePlantBoulder,-3825,-3815,-8395,-8385
+SmallAbandonedMine,-3959,-3934,-8315,-8300
+WoodThorn,-3948,-3937,-8329,-8318
+RLCraft_DecentSkeleton,-3924,-3924,-8361,-8361
+RLCraft_UndergroundRuin2,-3929,-3919,-8363,-8356
+StonePlantMound4,-3796,-3789,-8413,-8406
+RLCraft_BasicWitch,-3651,-3651,-8383,-8383
+RLCraft_UndergroundRuin1,-3654,-3645,-8389,-8380

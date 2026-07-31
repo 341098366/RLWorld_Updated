@@ -1,0 +1,6 @@
+RLCraft_BasicCaveSpider,-3777,-3777,-8159,-8159
+RLCraft_UndergroundRuin1,-3780,-3771,-8165,-8156
+DinosaurSkull,-3711,-3700,-8192,-8173
+RLCraft_DecentSpider,-3794,-3794,-8132,-8132
+RLCraft_UndergroundRuin3,-3799,-3791,-8134,-8126
+StonePlantMound,-3660,-3655,-8136,-8131

@@ -1,0 +1,6 @@
+RLCraft_SmallTown,6812,6883,-4966,-4891
+RLCraft_DecentWitch,6862,6862,-4998,-4998
+RLCraft_UndergroundRuin3,6859,6867,-5000,-4992
+MeteorSite,6849,6864,-5123,-5093
+MeteorSite,6908,6938,-4929,-4914
+FallenPalmTree,6975,6979,-5026,-5016

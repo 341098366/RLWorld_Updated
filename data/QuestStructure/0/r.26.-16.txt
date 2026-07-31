@@ -1,0 +1,4 @@
+ShrineSmallWater,13673,13681,-8691,-8683
+UndergroundCultChamber,13698,13730,-8686,-8644
+RLCraft_BasicSpider,13449,13449,-8680,-8680
+RLCraft_UndergroundRuin1,13446,13455,-8686,-8677

@@ -1,0 +1,5 @@
+HillAltarHouse,3339,3384,-5172,-5115
+RLCraft_BasicSkeleton,3326,3326,-5275,-5275
+RLCraft_UndergroundRuin1,3320,3329,-5281,-5272
+ElvenPond,3187,3217,-5308,-5279
+DinosaurSkeleton,3135,3144,-5147,-5101

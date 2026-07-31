@@ -1,0 +1,5 @@
+StonePlantMound3,5494,5505,-6155,-6146
+RLCraft_DecentWitch,5476,5476,-6213,-6213
+RLCraft_UndergroundRuin3,5474,5482,-6218,-6210
+StoneLeafMound,5527,5534,-6216,-6207
+StoneBoulder,5550,5559,-6221,-6212

@@ -1,0 +1,16 @@
+StoneMazePath,3532,3534,-3582,-3580
+StoneMazeFountain,3541,3549,-3576,-3568
+StoneMazeSpiderRoom,3532,3537,-3579,-3574
+StoneMazePath,3535,3537,-3582,-3580
+StoneMazePath,3544,3546,-3579,-3577
+StoneMazeSpiderRoom,3535,3540,-3573,-3568
+StoneMazePath,3538,3540,-3582,-3580
+StoneMazePath,3538,3540,-3579,-3577
+StoneMazePath,3538,3540,-3576,-3574
+PeacefulCrypt,3545,3569,-3542,-3526
+RLCraft_SmallUndergroundSkeleton,3509,3517,-3485,-3477
+RLCraft_BasicZombie,3208,3208,-3439,-3439
+RLCraft_UndergroundRuin1,3205,3214,-3445,-3436
+SmallAbandonedMine,3239,3254,-3428,-3403
+RLCraft_SmallUndergroundSkeleton,3271,3279,-3330,-3322
+RLCraft_SmallUndergroundSkeleton,3332,3340,-3306,-3298

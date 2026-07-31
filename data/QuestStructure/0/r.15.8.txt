@@ -1,0 +1,6 @@
+StonePlantBoulder,8021,8031,4596,4606
+AbandonedWoodTower,7863,7899,4367,4397
+RLCraft_DecentCaveSpider,8019,8019,4474,4474
+RLCraft_UndergroundRuin3,8016,8024,4472,4480
+RLCraft_DecentWitch,7986,7986,4583,4583
+RLCraft_UndergroundRuin2,7981,7988,4578,4588

@@ -1,0 +1,9 @@
+ShrineSmallWater,3420,3428,-4731,-4723
+RLCraft_BasicSpider,3205,3205,-5027,-5027
+RLCraft_UndergroundRuin1,3202,3211,-5030,-5021
+SmallAbandonedMine,3125,3150,-5064,-5049
+RLCraft_BasicWitch,3089,3089,-5036,-5036
+RLCraft_UndergroundRuin1,3086,3095,-5042,-5033
+UndergroundCultChamber,3243,3275,-4931,-4889
+RLCraft_DecentZombie,3302,3302,-4844,-4844
+RLCraft_UndergroundRuin3,3296,3304,-4849,-4841

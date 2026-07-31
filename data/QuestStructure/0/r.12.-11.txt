@@ -1,0 +1,8 @@
+VillageLargeLibrary,6208,6228,-6090,-6071
+RLCraft_SmallUndergroundSkeleton,6247,6255,-6017,-6009
+ThreeTowers,6283,6314,-6086,-6054
+VillageHouseRich,6281,6300,-6050,-6035
+RLCraft_SmallUndergroundSkeleton,6284,6292,-6026,-6018
+P_DesertTemple,6491,6541,-5687,-5638
+VillageGuardTower,6246,6258,-6122,-6110
+P_VillageFarmhouse,6252,6264,-6090,-6078

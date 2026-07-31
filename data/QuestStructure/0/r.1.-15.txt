@@ -1,0 +1,6 @@
+StonePlantBoulder,1006,1016,-7762,-7752
+StoneBoulder,979,988,-7753,-7744
+RLCraft_BasicWitch,983,983,-7737,-7737
+RLCraft_UndergroundRuin1,977,986,-7743,-7734
+Tree_Oak_TheMushroomOak_v3,909,968,-7755,-7705
+StoneLeafMound,930,939,-7854,-7847

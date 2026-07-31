@@ -1,0 +1,16 @@
+RLCraft_UndergroundFarm,6153,6195,-5614,-5571
+SmallWoodenCottage2,6209,6217,-5360,-5352
+DinosaurSkeleton,6277,6286,-5354,-5308
+DesertHut,6562,6572,-5509,-5500
+RLCraft_PlainsCamp,6542,6588,-5452,-5413
+RLCraft_Vineyard,6530,6550,-5333,-5305
+VillageTriplets,6474,6488,-5290,-5276
+ThreeTowers,6515,6547,-5290,-5259
+VillageSavannaTannery,6502,6513,-5288,-5265
+RLCraft_DecentWitch,6445,6445,-5250,-5250
+RLCraft_UndergroundRuin3,6439,6447,-5255,-5247
+P_VillageFarmhouse,6446,6458,-5246,-5234
+SeasonsGreenhouse,6482,6492,-5267,-5255
+SmallWoodenCottage2,6496,6504,-5233,-5225
+P_WitchDungeon,6475,6509,-5145,-5128
+RLCraft_SmallUndergroundSkeleton,6571,6579,-5189,-5181

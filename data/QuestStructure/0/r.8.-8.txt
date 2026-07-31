@@ -1,0 +1,15 @@
+RLCraft_DecentSpider,4132,4132,-4315,-4315
+RLCraft_UndergroundRuin2,4130,4137,-4320,-4310
+RLCraft_BasicZombie,4139,4139,-4379,-4379
+RLCraft_UndergroundRuin1,4136,4145,-4382,-4373
+StoneIceBoulder,4484,4493,-4374,-4364
+StoneIceBoulder,4459,4469,-4343,-4334
+DinosaurSkeleton,4505,4551,-4233,-4224
+RLCraft_SmallUndergroundSkeleton,4402,4410,-4270,-4262
+MeteorSite,4360,4375,-4332,-4302
+StoneIceBoulder3,4346,4356,-4376,-4366
+StoneIceBoulder1,4299,4309,-4347,-4337
+StoneIceBoulder3,4265,4275,-4390,-4380
+StoneIceBoulder3,4231,4241,-4348,-4338
+RLCraft_SmallUndergroundSkeleton,4165,4173,-4317,-4309
+StoneIceBoulder2,4180,4189,-4234,-4225

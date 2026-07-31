@@ -1,0 +1,3 @@
+StonePlantMound1,8046,8052,4670,4676
+StonePlantMound2,7989,8002,4630,4642
+ShrineSmallFire,8158,8168,4756,4766

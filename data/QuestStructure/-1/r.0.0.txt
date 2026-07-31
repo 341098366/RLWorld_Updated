@@ -1,0 +1,5 @@
+NetherThorn1,173,192,44,60
+NetherThorn1,-17,2,152,168
+NetherThorn2,-6,6,123,136
+NetherThorn2,84,97,29,41
+NetherThorn4,58,80,143,163

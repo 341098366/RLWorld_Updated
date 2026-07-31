@@ -1,0 +1,11 @@
+ShrineSmallFire,4061,4071,-5056,-5046
+ShrineSmallWater,3814,3822,-4883,-4875
+RLCraft_DecentZombie,3782,3782,-4738,-4738
+RLCraft_UndergroundRuin3,3777,3785,-4744,-4736
+StonePlantMound3,3822,3833,-5119,-5110
+RLCraft_DecentSpider,3692,3692,-4714,-4714
+RLCraft_UndergroundRuin2,3687,3697,-4719,-4712
+RLCraft_DecentWitch,3810,3810,-4880,-4880
+RLCraft_UndergroundRuin3,3808,3816,-4883,-4875
+RLCraft_DecentWitch,3631,3631,-5112,-5112
+RLCraft_UndergroundRuin3,3626,3634,-5114,-5106

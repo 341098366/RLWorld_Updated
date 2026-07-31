@@ -1,0 +1,13 @@
+SmallClockworkSite,4240,4262,-5154,-5135
+RLCraft_DecentWitch,4478,4478,-5169,-5169
+RLCraft_UndergroundRuin3,4473,4481,-5175,-5167
+RLCraft_BasicZombie,4310,4310,-5233,-5233
+RLCraft_UndergroundRuin1,4307,4316,-5239,-5230
+DinosaurSkeleton,4357,4366,-5251,-5205
+SmallClockworkSite,4556,4578,-5198,-5179
+BlazeSpawnerCrystal,4445,4451,-5218,-5212
+UndergroundCrypt,4515,4543,-5393,-5379
+RLCraft_BasicSpider,4464,4464,-5490,-5490
+RLCraft_UndergroundRuin1,4461,4470,-5493,-5484
+BlazeSpawnerCrystal,4442,4448,-5554,-5548
+StoneBoulder,4156,4165,-5363,-5354
